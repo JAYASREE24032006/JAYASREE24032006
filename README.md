@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/462cd19e-556a-4900-888b-69beedf8508f" />
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/462cd19e-556a-4900-888b-69beedf8508f" />
 </p>
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/462cd19e-556a-4900-888b-69beedf8508f" />
 
 <h1 align="center"><b>Hi, I'm Jayasree R!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
