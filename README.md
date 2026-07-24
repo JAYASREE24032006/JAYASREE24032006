@@ -86,7 +86,7 @@
 
 <div align="center">
   
-<img src="https://github.com/heyitsgautham/heyitsgautham/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+<img src="https://raw.githubusercontent.com/JAYASREE24032006/JAYASREE24032006/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 
 </div>
 
