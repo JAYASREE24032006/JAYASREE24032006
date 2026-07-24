@@ -8,13 +8,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;AI+Engineer;5x+National+Hackathon+Finalist;Dual+Degree+Student"></a>
 </p>
 
-- 💼 **Software Engineer Intern @ Lokam.ai** (Mar '26 – Present)
-- 💼 **Software Engineer Intern @ Presidio** (Sep–Nov '25)
+- 💼 **Front End Developer Intern @ CIRF Technologies** (Jun 24 - Jul 24)
+- 💼 **Ethical Hacker Intern @ Zybeak Solutions** (Jan 25 - Feb 25)
 - 🎓 **BS in Programming & Data Science** @ IIT Madras
-- 🎓 **BTech in AI & ML** @ SEC
+- 🎓 **BE in CSE** @ SEC
 - 🤖 Building intelligent systems with **Voice AI, LLMs, RAG, DL and ML**
 - 🚀 Focused on **AI projects** and **full-stack development** with cloud integrations
-- 📚 Most academic and experimental work lives in **private repositories**
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -98,10 +97,8 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyitsgautham" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyitsgautham" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyitsgautham" height="30" width="40" /></a>
-<a href="https://kaggle.com/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="heyitsgautham" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jayasree240306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jayasree" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Jayasree_R/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jayasree" height="30" width="40" /></a>
 </p>
 
 ---
