@@ -1,48 +1,69 @@
+<!-- ============================================================
+     JAYASREE R — GITHUB PROFILE README
+     Tip: Replace "JAYASREE24032006" everywhere if your handle changes.
+     Color palette: Violet/Purple (#7C3AED, #4F46E5, #A78BFA, #0D0221)
+     ============================================================ -->
+
 <div align="center">
 
-<!-- Animated typing hero -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jayasree+R+%F0%9F%91%8B;Dual-Degree+CS+%26+Data+Science+Engineer;AI+%2F+ML+%7C+Full-Stack+%7C+Cybersecurity;Turning+First-Principles+into+Production+Systems" alt="Typing animation introducing Jayasree R" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:24104F,70:4C1D95,100:312E81&height=180&section=header&text=Hi,%20I'm%20Jayasree%20✨&fontSize=42&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header banner"/>
 
-### Computer Science & Data Science Scholar · Saveetha Engineering College × IIT Madras
+<!-- Cartoon mascot avatar — DiceBear "adventurer" style (free, open license, no copyright risk) -->
+<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Jayasree-Coder&backgroundColor=b6e3f4,c0aede,d1d4f9&radius=50" width="140" alt="Jayasree's coder mascot avatar"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/jayasree240306"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jayasree2403206@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://jayasree-portfolio-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://jayasree-portfolio-chi.vercel.app/Jayasree_R_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
-</p>
+### AI Engineer · Data Scientist · Full-Stack Builder 💜
 
-<p>
-  <img src="https://img.shields.io/badge/BE_CSE-CGPA_8.6-6C63FF?style=flat-square" alt="CSE CGPA 8.6"/>
-  <img src="https://img.shields.io/badge/BS_Data_Science-CGPA_7.0-6C63FF?style=flat-square" alt="Data Science CGPA 7.0"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2ea44f?style=flat-square" alt="Open to opportunities"/>
-  <img src="https://komarev.com/ghpvc/?username=JAYASREE24032006&style=flat-square&color=6C63FF" alt="Profile views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-powered+products+%F0%9F%A4%96;Engineering+data-driven+systems+%F0%9F%93%8A;Exploring+Agentic+AI+%26+Machine+Learning+%F0%9F%A7%A0;Turning+complex+problems+into+software+%E2%9C%A8" alt="Typing animation"/>
+
+<br/>
+
+<!-- Quick identity badges -->
+<img src="https://img.shields.io/badge/B.E.%20CSE-Saveetha%20Engg.%20College-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/BS%20Data%20Science-IIT%20Madras-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/CGPA-8.6-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/📍-Chennai%2C%20India-312E81?style=flat-square"/>
+
+<br/><br/>
+
+<!-- Social + action links -->
+<a href="https://jayasree-portfolio-chi.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jayasree240306"><img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jayasree2403206@gmail.com"><img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/JAYASREE24032006"><img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<!-- Live counters — auto-update, zero maintenance -->
+<img src="https://komarev.com/ghpvc/?username=JAYASREE24032006&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/JAYASREE24032006?label=FOLLOWERS&style=flat-square&color=4F46E5"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square"/>
 
 </div>
 
 <br/>
 
-## 📖 Table of Contents
+<!-- ============================== NAVIGATION ============================== -->
+<p align="center">
+<a href="#-about-me">About</a> •
+<a href="#-what-i-build">What I Build</a> •
+<a href="#-technology-stack">Tech Stack</a> •
+<a href="#-aiml-expertise">AI/ML</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-my-journey">Journey</a> •
+<a href="#-experience">Experience</a> •
+<a href="#-achievements">Achievements</a> •
+<a href="#-certifications">Certifications</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-lets-connect">Connect</a>
+</p>
 
-- [👋 About Me](#-about-me)
-- [🎓 Academic Journey](#-academic-journey)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [💼 Industry Experience](#-industry-experience)
-- [🏆 Achievements & Recognition](#-achievements--recognition)
-- [📜 Certifications](#-certifications)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🤝 Mentors & Collaborators](#-mentors--collaborators)
-- [📬 Let's Connect](#-lets-connect)
-
-<br/>
+---
 
 ## 👋 About Me
 
-> **I bridge AI research and production engineering** — designing scalable ML pipelines by day, shipping full-stack applications by night, and thinking in first principles always.
+> **I build software where artificial intelligence, data, and product engineering meet.**
 
-Dual-degree scholar pursuing a **BE in Computer Science Engineering** at Saveetha Engineering College *(CGPA 8.6)* alongside a **BS in Data Science & Applications** at **IIT Madras** *(CGPA 7.0)*. My toolkit spans **PyTorch & neural architectures**, **statistical modeling**, and **full-stack integration** (React · Flask · Node.js · SQL) — engineered to close the gap between research notebooks and real-world systems.
+Dual-degree scholar pursuing a **BE in Computer Science Engineering** at Saveetha Engineering College *(CGPA 8.6)* alongside a **BS in Data Science & Applications** at **IIT Madras** *(CGPA 7.0)*. I work across AI Engineering, Data Science, Machine Learning, Agentic AI, Full-Stack Development, and Backend Systems — closing the gap between research notebooks and real-world, production-ready systems.
 
 <table>
 <tr>
@@ -52,261 +73,352 @@ Dual-degree scholar pursuing a **BE in Computer Science Engineering** at Saveeth
 | | |
 |---|---|
 | 🧑‍🎓 Name | Jayasree R |
-| 📍 Focus | AI / ML · Full-Stack · Cybersecurity |
-| 🎂 DOB | 24 March 2006 |
+| 📍 Focus | AI/ML · Data Science · Full-Stack |
 | 📧 Email | jayasree2403206@gmail.com |
 | 📱 Phone | +91 8939238010 |
+| 🏫 Institutions | SEC · IIT Madras |
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ At a Glance**
-- 🏆 1st Prize — Crown Quest (Math Club, SEC)
-- ⚛️ 1st Prize — Quantum Computing Tournament
-- 🥈 NPTEL Elite Silver Medalist (IoT, IIT Kharagpur)
-- 🎓 IITM Foundation Finisher — Top Grade Badges
-- 🛡️ Cybersecurity CTF Qualifier — Kurukshetra'26
+**💡 Currently**
+- 🔭 Building: AI-powered analytics & agentic apps
+- 🌱 Learning: Deep Learning, Agentic AI, System Design
+- 👯 Open to: AI/ML internships & research collabs
+- 💬 Ask me about: ML pipelines, Flask, RBAC systems
+- ⚡ Fun fact: I think in first-principles, always
 
 </td>
 </tr>
 </table>
 
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
+<div align="right"><a href="#top">↑ back to top</a></div>
 
-<br/>
+---
 
-## 🎓 Academic Journey
-
-```text
-$ whoami --education
-
-[2023 — Present]  BS Data Science & Applications, IIT Madras       CGPA: 7.0/10.0
-                  → ML · Computational Thinking · Linear Algebra
-                  → Statistics · Database Systems
-
-[2023 — Present]  BE Computer Science Engineering, Saveetha Engg.  CGPA: 8.6/10.0
-                  → Software Engineering · Web Technologies
-                  → Computer Networks · Cybersecurity
-```
-
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Databases**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-
-**Web, Frameworks & ML**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
-
-**Security & Tools**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Kali Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
-
-</div>
-
-| Domain | Skills |
-|---|---|
-| 🛡️ **Security & Forensics** | Ethical Hacking · Nmap · Metasploit · Burp Suite · Wireshark · Autopsy (Digital Forensics) |
-| 📊 **Analytics & Math** | Probability & Statistics · Linear Algebra · Predictive Analytics · Data Mining |
-| 🗣️ **Soft Skills** | Team Leadership · First-Principles Problem Solving · Analytical Communication |
-
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
-
-<br/>
-
-## 🚀 Featured Projects
+## ⚡ What I Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧑‍💼 [TALENTGRID](https://github.com/JAYASREE24032006/TALENTGRID-Placement-Portal-Application)
-**Recruitment Workflow & Analytics Platform**
-
-Multi-tenant recruitment platform with a **Neobrutalist UI** — dedicated dashboards for Admins, Recruiters & Candidates. Relational schemas via SQLAlchemy power live funnel analytics rendered with Chart.js.
-
-`Python` `Flask` `SQLite` `Flask-SQLAlchemy` `Jinja2` `Bootstrap 5` `Chart.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏕️ [TREKORA](https://github.com/JAYASREE24032006/TREKORA-Trekking-Management-App)
-**Adventure Logistics Platform**
-
-Role-based trek management system orchestrating booking histories, participant allocation, and dynamic route inventories through real-time relational databases.
-
-`Python` `Flask` `SQLite` `Flask-SQLAlchemy` `Jinja2` `Bootstrap 5`
-
-</td>
+<td width="33%" align="center">🤖<br/><b>AI Systems</b><br/><sub>Models, APIs & intelligent workflows</sub></td>
+<td width="33%" align="center">📊<br/><b>Data Products</b><br/><sub>Raw data → business insight</sub></td>
+<td width="33%" align="center">🌐<br/><b>Full-Stack Apps</b><br/><sub>UI + API + DB + Auth</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🍳 [INFINITICOOK](https://github.com/JAYASREE24032006/INFINITYCOOK-Food-Recipe-App)
-**Recipe Management Platform** · *CIRF Internship*
-
-Full-stack recipe platform with modular DB structures handling multi-cuisine filtering, submissions, saved recipes & responsive rendering.
-
-`HTML5` `CSS3` `Bootstrap 5` `JavaScript` `PHP` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [SHIELD](https://github.com/JAYASREE24032006/SHEILD-Agentic-AI-Driven-SSO-System)
-**Agentic AI–Driven SSO System**
-
-Unified single sign-on across apps with real-time anomaly monitoring, forced global logout, JWT verification & Redis session state.
-
-`Python` `Flask` `JWT` `Redis` `React` `Node.js`
-
-</td>
+<td width="33%" align="center">🧠<br/><b>Agentic Apps</b><br/><sub>Multi-step agents & orchestration</sub></td>
+<td width="33%" align="center">🗺️<br/><b>Intelligent Platforms</b><br/><sub>Geospatial + AI decision support</sub></td>
+<td width="33%" align="center">📈<br/><b>Analytics Dashboards</b><br/><sub>Insight from raw signals</sub></td>
 </tr>
 </table>
 
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
+<div align="right"><a href="#top">↑ back to top</a></div>
 
-<br/>
+---
 
-## 💼 Industry Experience
+## 🛠 Technology Stack
+
+<!-- Powered by skillicons.dev — edit the `i=` query param to add/remove icons -->
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/></p>
+`SQL`
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/></p>
+
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring"/></p>
+
+**Databases & Infra**
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,aws"/></p>
+
+**AI / ML / Data**
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/></p>
+
+`Pandas` `NumPy` `Matplotlib` `NLTK` `TextBlob` `OpenAI API` `LangGraph` `PaddleOCR`
+
+**Dev Tooling**
+<p><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/></p>
+
+`Maven` `Kafka` `Uvicorn` `REST APIs` `MapLibre GL JS`
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+---
+
+## 🧠 AI/ML Expertise
+
+| Domain | Level | What I Work With |
+|---|:---:|---|
+| Machine Learning | 🟣🟣🟣🟣⚪ Advanced | Classification, feature engineering, model evaluation |
+| Data Science | 🟣🟣🟣🟣⚪ Advanced | Data cleaning, EDA, statistics, visualization |
+| Deep Learning | 🟣🟣🟣⚪⚪ Intermediate | Neural networks, MLPs, PyTorch training |
+| NLP | 🟣🟣🟣⚪⚪ Intermediate | Text preprocessing, sentiment analysis |
+| Generative AI | 🟣🟣🟣⚪⚪ Intermediate | LLM APIs, AI assistants, workflow integration |
+| Agentic AI | 🟣🟣🟣⚪⚪ Intermediate | LangGraph, agents, tool orchestration |
+| Computer Vision | 🟣🟣⚪⚪⚪ Intermediate | OCR, real-time text detection |
+| Data Visualization | 🟣🟣🟣🟣⚪ Advanced | Matplotlib, Seaborn, Recharts dashboards |
+| AI Product Engineering | 🟣🟣🟣🟣⚪ Strong | Connecting models to APIs, DBs & production apps |
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Each project is a collapsible card — add new ones by copying a <details> block -->
 
 <details open>
-<summary><b>🌐 Web Development Intern — CIRF Technology</b> <i>(Jul 1–15, 2024)</i></summary>
+<summary><strong>◆ SHORECAST — Agentic AI Coastal Safety Platform</strong> 🌊</summary>
 <br/>
 
-- Engineered **INFINITICOOK**: full-stack recipe management app (PHP, MySQL, JavaScript)
-- Designed modular schemas & optimized queries for complex multi-category filtering
-- Delivered fully responsive UI with HTML5, CSS3 & Bootstrap
+Geospatial AI platform combining **agentic workflows, location intelligence & spatial data** for coastal safety.
 
-`HTML5` `CSS3` `Bootstrap` `JavaScript` `PHP` `MySQL`
+```text
+Next.js Client → FastAPI → LangGraph Agents → PostgreSQL/PostGIS/pgvector → Redis
+```
+
+| Dimension | Implementation |
+|---|---|
+| **Frontend** | Next.js 15 · Tailwind CSS · MapLibre GL JS |
+| **Backend** | FastAPI · Python 3.12 |
+| **AI** | LangGraph · Groq · Llama 3.3 |
+| **Database** | PostgreSQL 16 · PostGIS · pgvector |
+
+`Agentic AI` `Geospatial AI` `PostGIS` `Vector Search` `FastAPI`
 
 </details>
 
 <details>
-<summary><b>🛡️ Cybersecurity & Ethical Hacking Intern — Zybeak Technologies Pvt. Ltd.</b> <i>(Jan 2–31, 2025)</i></summary>
+<summary><strong>◆ INSIGHTAI — AI-Powered Customer Experience Dashboard</strong> 📈</summary>
 <br/>
 
-- Conducted network/system security audits using Nmap, Metasploit & Burp Suite
-- Performed simulated SQL injection testing in controlled lab environments
-- Practiced incident response via digital forensics using Autopsy on Kali Linux
+Transforms customer feedback into **sentiment, churn-risk & CX intelligence**.
 
-`Ethical Hacking` `Kali Linux` `Nmap` `Metasploit` `Burp Suite` `SQL Injection` `Digital Forensics`
+```text
+Feedback → Cleaning/NLP → Sentiment/Risk → Flask REST API → React Dashboard → AI Assistant
+```
+
+| Dimension | Implementation |
+|---|---|
+| **Frontend** | React · Tailwind CSS · Recharts |
+| **Backend** | Python · Flask |
+| **NLP/AI** | NLTK · TextBlob · OpenAI API |
+
+`NLP` `Analytics` `React` `Flask` `LLM Integration`
 
 </details>
 
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
-
+<details>
+<summary><strong>◆ TALENTGRID — Recruitment Workflow & Analytics Platform</strong> 🧑‍💼</summary>
 <br/>
 
-## 🏆 Achievements & Recognition
+Multi-role recruitment platform for **Admins, Recruiters & Candidates** with live funnel analytics.
 
-| | Achievement | Context |
-|---|---|---|
-| 🏆 | **Winner, 1st Prize — Crown Quest** | Math Club, Saveetha Engineering College (Mar 2026) |
-| ⚛️ | **Winner, 1st Prize — Quantum Computing Tournament** | Advanced algorithm & speed computation |
-| 🎓 | **Foundation Finisher & Top Grade Badges** | IIT Madras, BS Data Science Foundation Level |
-| 🛡️ | **NETRUNNER'S GAUNTLET Qualifier** | Kurukshetra'26 CTF — Anna University (CEG) / IEEE |
-| ⚡ | **IBM Z Datathon 2025 Participant** | Enterprise cloud & big-data challenge |
-| 🚀 | **THIRAN 2026 AI-Agentathon Participant** | Sri Eshwar College — national AI agent hackathon |
-| 🏆 | **Deloitte Certificate of Excellence** | Data Analytics Program |
-| 🥈 | **NPTEL Elite Silver Medalist — IoT** | IIT Kharagpur, 85% consolidated score |
-| 🏛️ | **Viksit Bharat @2047 Recognition** | MyGov / Govt. of India tech infrastructure proposal |
+| Dimension | Implementation |
+|---|---|
+| **Stack** | Python · Flask · SQLite · SQLAlchemy · Jinja2 · Bootstrap 5 · Chart.js |
+| **Repo** | [View Repository](https://github.com/JAYASREE24032006/TALENTGRID-Placement-Portal-Application) |
 
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
+`RBAC` `CRUD` `Analytics` `SQL`
 
+</details>
+
+<details>
+<summary><strong>◆ TREKORA — Trekking Management Platform</strong> 🏕️</summary>
 <br/>
+
+Role-based trek management replacing spreadsheets with structured booking & lifecycle workflows.
+
+| Dimension | Implementation |
+|---|---|
+| **Stack** | Python · Flask · SQLite · SQLAlchemy · Jinja2 · Bootstrap 5 |
+| **Repo** | [View Repository](https://github.com/JAYASREE24032006/TREKORA-Trekking-Management-App) |
+
+`Backend` `Database Design` `RBAC` `REST API`
+
+</details>
+
+<details>
+<summary><strong>◆ SHIELD — Agentic AI Single Sign-On System</strong> 🔑</summary>
+<br/>
+
+Centralized authentication with **JWT verification, Redis sessions & anomaly-aware monitoring**.
+
+| Dimension | Implementation |
+|---|---|
+| **Stack** | Python · Flask · React · Node.js · JWT · Redis |
+| **Repo** | [View Repository](https://github.com/JAYASREE24032006/SHEILD-Agentic-AI-Driven-SSO-System) |
+
+`Authentication` `JWT` `Redis` `Agentic AI`
+
+</details>
+
+<details>
+<summary><strong>◆ INFINITICOOK — Food Recipe Management Platform</strong> 🍳</summary>
+<br/>
+
+Full-stack recipe platform built during CIRF Technology internship.
+
+| Dimension | Implementation |
+|---|---|
+| **Stack** | HTML5 · CSS3 · Bootstrap 5 · JavaScript · PHP · MySQL |
+| **Repo** | [View Repository](https://github.com/JAYASREE24032006/INFINITYCOOK-Food-Recipe-App) |
+
+`PHP` `MySQL` `JavaScript` `Full Stack`
+
+</details>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+---
+
+## 🧭 My Journey
+
+<!-- Simple timeline — add a new line when a milestone happens -->
+```text
+2023 ●── Started dual-degree: CSE @ SEC + Data Science @ IIT Madras
+      │
+2024 ●── Web Development Intern @ CIRF Technology → shipped INFINITICOOK
+      │
+2025 ●── NPTEL Elite Silver (IoT) · Deloitte Certificate of Excellence
+      │
+2026 ●── 1st Prize: Crown Quest & Quantum Computing Tournament
+      │   Built SHIELD, TALENTGRID, TREKORA, INSIGHTAI, SHORECAST
+      │   Participated: IBM Z Datathon · THIRAN AI-Agentathon
+      ▼   → Currently open to AI/ML & Full-Stack roles
+```
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+---
+
+## 💼 Experience
+
+**🌐 Web Development Intern — CIRF Technology** *(Jul 2024)*
+Built INFINITICOOK end-to-end: PHP/MySQL backend, recipe categorization, responsive Bootstrap UI.
+`PHP` `MySQL` `JavaScript` `Bootstrap`
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+---
+
+## 🏆 Achievements
+
+| Recognition | Details |
+|---|---|
+| 🏆 **Crown Quest — 1st Prize** | Math Club, Saveetha Engineering College |
+| ⚛️ **Quantum Computing Tournament — 1st Prize** | Algorithmic & speed problem solving |
+| 🥈 **NPTEL Elite Silver — IoT** | 85% consolidated score, IIT Kharagpur |
+| 🏅 **Deloitte Certificate of Excellence** | Data Analytics program |
+| 🎓 **IITM Foundation Finisher** | Top course grade badges |
+| ⚡ **IBM Z Datathon 2025** | Enterprise cloud & big-data challenge |
+| 🚀 **THIRAN 2026 AI-Agentathon** | National AI agent hackathon |
+| 🏛️ **Viksit Bharat @2047** | Recognized tech-policy proposal, MyGov |
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+---
 
 ## 📜 Certifications
 
+<img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-SQL%20Fundamentals-4F46E5?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Elite%20Silver%20%7C%2085%25-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Crash%20Course%20on%20Python-7C3AED?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coursera-PyTorch%20Ultimate-4F46E5?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+Additional: Anthropic *(Claude Code in Action)* · Infosys Wingspan *(Build & Train RNNs)* · Commonwealth Bank *(Software Engineering Simulation)*
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+---
+
+## 💻 Coding Profiles
+
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CODECHEF-312E81?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+---
+
+## 📈 GitHub Analytics
+
 <div align="center">
 
-![IITM Foundation](https://img.shields.io/badge/IITM-Foundation_Program-9146FF?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-SQL_Database_Fundamentals-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-PyTorch_Ultimate-0056D2?style=flat-square&logo=coursera&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Crash_Course_on_Python-4285F4?style=flat-square&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Intro_to_Cloud_101-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JAYASREE24032006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASREE24032006&layout=compact&langs_count=8&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" alt="Top languages"/>
 
-</div>
+<br/><br/>
 
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAYASREE24032006&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JAYASREE24032006&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JAYASREE24032006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jayasree's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAYASREE24032006&theme=tokyonight&hide_border=true" alt="Jayasree's GitHub Streak" height="165"/>
-</div>
-
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAYASREE24032006&bg_color=0D0221&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
 
 <br/>
 
-## 🤝 Mentors & Collaborators
-
-<div align="center">
-
-Grateful to the institutions and teams that shaped this journey:
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/-IIT_Madras-9146FF?style=for-the-badge" alt="IIT Madras"/><br/><sub>Academic Mentor</sub>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/-Saveetha_Engg-6C63FF?style=for-the-badge" alt="Saveetha Engineering College"/><br/><sub>Home Institution</sub>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/-CIRF_Technology-2ea44f?style=for-the-badge" alt="CIRF Technology"/><br/><sub>Internship Host</sub>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/-Zybeak_Tech-D14836?style=for-the-badge" alt="Zybeak Technologies"/><br/><sub>Internship Host</sub>
-</td>
-</tr>
-</table>
+<!-- Snake requires a GitHub Action in your JAYASREE24032006/JAYASREE24032006 repo (Platane/snk) — safe to remove if not set up -->
+<img src="https://raw.githubusercontent.com/JAYASREE24032006/JAYASREE24032006/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 
 </div>
 
-<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
+<div align="right"><a href="#top">↑ back to top</a></div>
 
-<br/>
+---
 
-## 📬 Let's Connect
+## 🎯 Current Focus
+
+```yaml
+identity:
+  name: "Jayasree R"
+  role: "Computer Science & Data Science Engineer"
+  location: "Chennai, India"
+
+building:
+  - AI-powered analytics platforms
+  - Agentic AI applications
+  - Full-stack enterprise systems
+
+exploring:
+  - LLM-powered applications
+  - Multi-agent architectures
+  - Vector databases & Geospatial AI
+
+open_to:
+  - AI/ML internships
+  - Data Science opportunities
+  - Full-stack development roles
+  - Research collaborations
+```
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Open to Data Scientist · ML Engineer · Full-Stack Developer opportunities**
+<a href="mailto:jayasree2403206@gmail.com"><img src="https://img.shields.io/badge/Gmail-jayasree2403206%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jayasree240306"><img src="https://img.shields.io/badge/LinkedIn-Jayasree%20R-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/JAYASREE24032006"><img src="https://img.shields.io/badge/GitHub-JAYASREE24032006-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://jayasree-portfolio-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<p>
-  <a href="https://www.linkedin.com/in/jayasree240306"><img src="https://img.shields.io/badge/LinkedIn-jayasree240306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/JAYASREE24032006"><img src="https://img.shields.io/badge/GitHub-JAYASREE24032006-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:jayasree2403206@gmail.com"><img src="https://img.shields.io/badge/Gmail-jayasree2403206-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://jayasree-portfolio-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<br/><br/>
 
-<sub>© 2026 Jayasree R · Built with 🧠 first-principles thinking and ☕</sub>
+<strong>Building at the intersection of AI, data, and software engineering. 💜</strong>
+
+<br/><br/>
+
+> Build with curiosity. Engineer with purpose. Keep learning.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:4C1D95,65:24104F,100:0D0221&height=140&section=footer&animation=fadeIn" width="100%" alt="Footer wave"/>
 
 </div>
