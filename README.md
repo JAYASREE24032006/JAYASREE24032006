@@ -1,167 +1,27 @@
-<!-- ============================================================
-     JAYASREE R — GITHUB PROFILE README
-     Single accent color (#6C63FF). Plain text, minimal widgets.
-     Replace "JAYASREE24032006" everywhere if your handle changes.
-     ============================================================ -->
+# 💫 About Me:
+🔭 I’m currently working on: AI-powered applications, Agentic AI systems, and full-stack projects like InsightAI and Shorecast<br><br>👯 I’m looking to collaborate on: AI/ML, Data Science, Full-Stack Development, and open-source projects<br><br>🤝 I’m looking for help with: Advanced AI/ML, system design, and building scalable production-ready applications<br><br>🌱 I’m currently learning: Generative AI, Agentic AI, Deep Learning, Data Engineering, and Cloud Computing<br><br>💬 Ask me about: Python, Machine Learning, Data Science, React, Flask, FastAPI, SQL, AI projects, and problem solving<br><br>⚡ Fun fact: I enjoy solving puzzles and playing chess — and I like turning complex problems into simple, working solutions.
 
-<div align="center">
 
-<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Jayasree-Coder&backgroundColor=eef2ff&radius=50" width="110" alt="Jayasree's coder mascot avatar"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayasree.2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayasree240306/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jayasree R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayasree2403206@gmail.com) 
 
-<h1>Jayasree R</h1>
-<p><b>AI Engineer · Data Scientist · Full-Stack Developer</b></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JAYASREE24032006&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=JAYASREE24032006&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JAYASREE24032006&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-<a href="https://jayasree-portfolio-chi.vercel.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/jayasree240306">LinkedIn</a> ·
-<a href="https://github.com/JAYASREE24032006">GitHub</a> ·
-<a href="mailto:jayasree2403206@gmail.com">Email</a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JAYASREE24032006&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Engineering+data-driven+systems;Exploring+Agentic+AI" alt="Typing animation"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JAYASREE24032006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=JAYASREE24032006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-<a href="#about">About</a> ·
-<a href="#tech-stack">Tech Stack</a> ·
-<a href="#projects">Projects</a> ·
-<a href="#experience">Experience</a> ·
-<a href="#achievements">Achievements</a> ·
-<a href="#certifications">Certifications</a> ·
-<a href="#github-activity">GitHub Activity</a> ·
-<a href="#contact">Contact</a>
-</p>
-
-<br/>
-
-## About
-
-Dual-degree student pursuing a **BE in Computer Science Engineering** at Saveetha Engineering College (CGPA 8.6) and a **BS in Data Science & Applications** at **IIT Madras** (CGPA 7.0). I work across AI, data science, and full-stack development — building systems that go from a research idea to something people can actually use.
-
-| | |
-|---|---|
-| Focus | AI/ML · Data Science · Full-Stack Development |
-| Education | Saveetha Engineering College · IIT Madras |
-| Location | Chennai, India |
-| Email | jayasree2403206@gmail.com |
-| Status | Open to internships & collaborations |
-
-<br/>
-
-## Tech Stack
-
-**Languages**  Python · Java · C · JavaScript · SQL
-
-**Frontend**  React · Next.js · Tailwind CSS · Bootstrap
-
-**Backend**  Node.js · Express · Flask · FastAPI
-
-**Data & Infra**  PostgreSQL · MySQL · SQLite · Redis · Docker · AWS
-
-**AI / ML**  PyTorch · TensorFlow · scikit-learn · Pandas · NumPy · LangGraph · OpenAI API
-
-**Tools**  Git · GitHub · Postman · VS Code
-
-<br/>
-
-## AI/ML Focus Areas
-
-| Area | Experience |
-|---|---|
-| Machine Learning | Classification, feature engineering, model evaluation |
-| Data Science | Data cleaning, EDA, statistics, visualization |
-| Deep Learning | Neural networks, PyTorch training pipelines |
-| Agentic AI | LangGraph, tool orchestration, multi-step agents |
-| NLP | Text preprocessing, sentiment analysis |
-| Generative AI | LLM APIs, AI-assisted application workflows |
-
-<br/>
-
-## Projects
-
-**[SHORECAST](https://github.com/JAYASREE24032006) — Agentic AI Coastal Safety Platform**
-Geospatial AI platform combining agentic workflows and location intelligence.
-`Next.js` `FastAPI` `LangGraph` `PostGIS` `pgvector`
-
-**[INSIGHTAI](https://github.com/JAYASREE24032006) — AI Customer Experience Dashboard**
-Converts customer feedback into sentiment and churn-risk analytics.
-`React` `Flask` `NLTK` `OpenAI API`
-
-**[TALENTGRID](https://github.com/JAYASREE24032006/TALENTGRID-Placement-Portal-Application) — Recruitment Workflow & Analytics Platform**
-Multi-role recruitment platform with live funnel analytics.
-`Python` `Flask` `SQLAlchemy` `Chart.js`
-
-**[TREKORA](https://github.com/JAYASREE24032006/TREKORA-Trekking-Management-App) — Trekking Management Platform**
-Role-based trek booking and lifecycle management system.
-`Python` `Flask` `SQLAlchemy` `Bootstrap`
-
-**[SHIELD](https://github.com/JAYASREE24032006/SHEILD-Agentic-AI-Driven-SSO-System) — Agentic AI Single Sign-On**
-Centralized authentication with JWT verification and Redis session state.
-`Flask` `React` `JWT` `Redis`
-
-**[INFINITICOOK](https://github.com/JAYASREE24032006/INFINITYCOOK-Food-Recipe-App) — Recipe Management Platform**
-Full-stack recipe platform built during a technology internship.
-`PHP` `MySQL` `JavaScript` `Bootstrap`
-
-<br/>
-
-## Experience
-
-**Web Development Intern — CIRF Technology** *(Jul 2024)*
-Built a full-stack recipe management application (INFINITICOOK) — backend, database design, and a responsive UI.
-`PHP` `MySQL` `JavaScript` `Bootstrap`
-
-<br/>
-
-## Achievements
-
-| | |
-|---|---|
-| Crown Quest — 1st Prize | Math Club, Saveetha Engineering College |
-| Quantum Computing Tournament — 1st Prize | Algorithmic & speed problem solving |
-| NPTEL Elite Silver — IoT | 85% consolidated score, IIT Kharagpur |
-| Deloitte Certificate of Excellence | Data Analytics program |
-| IITM Foundation Finisher | Top course grade badges |
-| IBM Z Datathon 2025 | Enterprise cloud & big-data challenge |
-| THIRAN 2026 AI-Agentathon | National AI agent hackathon |
-| Viksit Bharat @2047 | Recognized tech-policy proposal, MyGov |
-
-<br/>
-
-## Certifications
-
-AWS Cloud Fundamentals · Oracle SQL Fundamentals · NPTEL IoT (Elite Silver) · Cisco Python Essentials 1 · Google Crash Course on Python · Coursera PyTorch Ultimate
-
-<sub>Also: Anthropic (Claude Code in Action) · Infosys Wingspan (RNNs) · Commonwealth Bank Software Engineering Simulation</sub>
-
-<br/>
-
-## Coding Profiles
-
-[LeetCode](https://leetcode.com/) · [GeeksforGeeks](https://www.geeksforgeeks.org/) · [HackerRank](https://www.hackerrank.com/) · [CodeChef](https://www.codechef.com/)
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=JAYASREE24032006&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6C63FF&icon_color=6C63FF&text_color=333333" alt="GitHub stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASREE24032006&layout=compact&hide_border=true&bg_color=ffffff&title_color=6C63FF&text_color=333333" alt="Top languages"/>
-
-</div>
-
-<br/>
-
-## Contact
-
-<div align="center">
-
-[Email](mailto:jayasree2403206@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jayasree240306) · [GitHub](https://github.com/JAYASREE24032006) · [Portfolio](https://jayasree-portfolio-chi.vercel.app/)
-
-<sub>© 2026 Jayasree R</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
