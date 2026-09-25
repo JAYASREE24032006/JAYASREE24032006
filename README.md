@@ -1,755 +1,312 @@
-
 <div align="center">
 
-# JAYASREE R
+<!-- Animated typing hero -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jayasree+R+%F0%9F%91%8B;Dual-Degree+CS+%26+Data+Science+Engineer;AI+%2F+ML+%7C+Full-Stack+%7C+Cybersecurity;Turning+First-Principles+into+Production+Systems" alt="Typing animation introducing Jayasree R" />
 
-### AI • Data Science • Software Engineering
+### Computer Science & Data Science Scholar · Saveetha Engineering College × IIT Madras
 
-<a href="https://jayasree-portfolio-chi.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/jayasree240306">
-<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:jayasree2403206@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/JAYASREE24032006">
-<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/jayasree240306"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jayasree2403206@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://jayasree-portfolio-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://jayasree-portfolio-chi.vercel.app/Jayasree_R_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+</p>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-powered+products;Engineering+data-driven+systems;Exploring+Agentic+AI+%26+Machine+Learning;Turning+complex+problems+into+software" alt="Typing SVG">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-Saveetha%20Engineering%20College-7C3AED?style=flat-square">
-<img src="https://img.shields.io/badge/BS%20Data%20Science-IIT%20Madras-4F46E5?style=flat-square">
-<img src="https://img.shields.io/badge/CGPA-8.6-A78BFA?style=flat-square">
-<img src="https://img.shields.io/badge/Chennai%2C%20India-312E81?style=flat-square">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=JAYASREE24032006&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square">
-<img src="https://img.shields.io/github/followers/JAYASREE24032006?label=FOLLOWERS&style=flat-square&color=4F46E5">
-<img src="https://img.shields.io/github/stars/JAYASREE24032006?label=STARS&style=flat-square&color=6D28D9">
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:24104F,70:4C1D95,100:312E81&height=120&section=header&animation=fadeIn" width="100%">
+<p>
+  <img src="https://img.shields.io/badge/BE_CSE-CGPA_8.6-6C63FF?style=flat-square" alt="CSE CGPA 8.6"/>
+  <img src="https://img.shields.io/badge/BS_Data_Science-CGPA_7.0-6C63FF?style=flat-square" alt="Data Science CGPA 7.0"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2ea44f?style=flat-square" alt="Open to opportunities"/>
+  <img src="https://komarev.com/ghpvc/?username=JAYASREE24032006&style=flat-square&color=6C63FF" alt="Profile views"/>
+</p>
 
 </div>
 
----
+<br/>
 
-## Navigation
+## 📖 Table of Contents
 
-<p align="center">
+- [👋 About Me](#-about-me)
+- [🎓 Academic Journey](#-academic-journey)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🚀 Featured Projects](#-featured-projects)
+- [💼 Industry Experience](#-industry-experience)
+- [🏆 Achievements & Recognition](#-achievements--recognition)
+- [📜 Certifications](#-certifications)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🤝 Mentors & Collaborators](#-mentors--collaborators)
+- [📬 Let's Connect](#-lets-connect)
 
-[About](#-about) •
-[What I Build](#-what-i-build) •
-[Tech Stack](#-technology-stack) •
-[AI/ML](#-aiml-expertise) •
-[Projects](#-featured-projects) •
-[Experience](#-experience) •
-[Achievements](#-achievements) •
-[Certifications](#-certifications) •
-[Analytics](#-github-analytics) •
-[Focus](#-current-focus) •
-[Connect](#-lets-connect)
+<br/>
 
-</p>
+## 👋 About Me
 
----
+> **I bridge AI research and production engineering** — designing scalable ML pipelines by day, shipping full-stack applications by night, and thinking in first principles always.
 
-# 👋 About
-
-> **I build software where artificial intelligence, data, and product engineering meet.**
-
-I am **Jayasree R**, a Computer Science and Data Science engineer focused on building practical systems rather than isolated prototypes.
-
-My work spans **Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, Backend Engineering, Cybersecurity, and Agentic AI**.
-
-I enjoy taking a problem from:
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Model
-   ↓
-Engineer
-   ↓
-Integrate
-   ↓
-Measure
-   ↓
-Improve
-````
-
-My engineering mindset combines **problem solving + data + software architecture + user-focused product thinking**.
-
-### Currently Interested In
-
-`AI Engineering` · `Data Science` · `Machine Learning` · `Agentic AI` · `Full-Stack Development` · `Backend Systems` · `Data Engineering`
-
-### Open To
-
-* AI / ML internships
-* Data Science opportunities
-* Software Engineering roles
-* Full-Stack development
-* AI research collaborations
-* Open-source projects
-* Product engineering opportunities
-
----
-
-# ⚡ What I Build
+Dual-degree scholar pursuing a **BE in Computer Science Engineering** at Saveetha Engineering College *(CGPA 8.6)* alongside a **BS in Data Science & Applications** at **IIT Madras** *(CGPA 7.0)*. My toolkit spans **PyTorch & neural architectures**, **statistical modeling**, and **full-stack integration** (React · Flask · Node.js · SQL) — engineered to close the gap between research notebooks and real-world systems.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Systems
-
-AI-powered applications that combine models, APIs, structured data and intelligent workflows.
-
-</td>
-<td width="50%">
-
-### 📊 Data Products
-
-Analytics platforms that convert raw information into useful business insights.
+**🎯 Quick Facts**
+| | |
+|---|---|
+| 🧑‍🎓 Name | Jayasree R |
+| 📍 Focus | AI / ML · Full-Stack · Cybersecurity |
+| 🎂 DOB | 24 March 2006 |
+| 📧 Email | jayasree2403206@gmail.com |
+| 📱 Phone | +91 8939238010 |
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="50%">
-
-### 🌐 Full-Stack Products
-
-End-to-end applications spanning responsive interfaces, APIs, databases and authentication.
-
-</td>
-<td width="50%">
-
-### 🧠 Agentic Applications
-
-Multi-step AI workflows using agents, tools, memory and orchestration.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Secure Systems
-
-Applications incorporating authentication, authorization, cybersecurity and forensic concepts.
-
-</td>
-<td width="50%">
-
-### 🗺️ Intelligent Platforms
-
-Systems combining geospatial data, AI and real-time decision support.
+**⚡ At a Glance**
+- 🏆 1st Prize — Crown Quest (Math Club, SEC)
+- ⚛️ 1st Prize — Quantum Computing Tournament
+- 🥈 NPTEL Elite Silver Medalist (IoT, IIT Kharagpur)
+- 🎓 IITM Foundation Finisher — Top Grade Badges
+- 🛡️ Cybersecurity CTF Qualifier — Kurukshetra'26
 
 </td>
 </tr>
 </table>
 
----
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
 
-# 🛠 Technology Stack
+<br/>
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css">
-</p>
-
-`SQL`
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap">
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring">
-</p>
-
-### Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,aws">
-</p>
-
-### AI / ML / Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn">
-</p>
-
-`Pandas` · `NumPy` · `Matplotlib` · `NLTK` · `TextBlob` · `OpenAI API` · `LangGraph` · `PaddleOCR`
-
-### Developer Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman">
-</p>
-
-`Maven` · `Kafka` · `Uvicorn` · `REST APIs` · `MapLibre GL JS`
-
-### Security & Forensics
-
-`Kali Linux` · `Nmap` · `Metasploit` · `Burp Suite` · `Wireshark` · `Autopsy` · `FTK Imager`
-
----
-
-# 🧠 AI/ML Expertise
-
-| Domain                 |     Level    | What I Work With                                                       |
-| ---------------------- | :----------: | ---------------------------------------------------------------------- |
-| Machine Learning       |   Advanced   | Classification, preprocessing, feature engineering, model evaluation   |
-| Data Science           |   Advanced   | Data cleaning, EDA, statistics, feature engineering, visualization     |
-| Deep Learning          | Intermediate | Neural networks, MLPs, PyTorch and model training                      |
-| NLP                    | Intermediate | Text preprocessing, sentiment analysis and language-based applications |
-| Generative AI          | Intermediate | LLM APIs, AI assistants and intelligent application workflows          |
-| Agentic AI             | Intermediate | LangGraph, agents, tool orchestration and autonomous workflows         |
-| Computer Vision        | Intermediate | OCR and real-time text detection                                       |
-| Data Visualization     |   Advanced   | Matplotlib, Seaborn, Recharts and analytics dashboards                 |
-| AI Product Engineering |    Strong    | Connecting models with APIs, databases and production applications     |
-
----
-
-# 🚀 Featured Projects
-
-<details>
-<summary><strong>◆ TALENTGRID — Recruitment Workflow & Analytics Platform</strong></summary>
-
-<br>
-
-A multi-role recruitment and placement management platform designed around the workflows of **students, recruiters and placement administrators**.
-
-### Engineering Snapshot
-
-| Dimension        | Implementation                                                                                 |
-| ---------------- | ---------------------------------------------------------------------------------------------- |
-| **Stack**        | Python · Flask · SQLite · SQLAlchemy · Jinja2 · Bootstrap 5 · Chart.js                         |
-| **Architecture** | Role-based multi-workspace application                                                         |
-| **Core System**  | Recruitment workflow + eligibility + analytics                                                 |
-| **Security**     | Authentication + role-based access control                                                     |
-| **Analytics**    | Recruitment funnel and application insights                                                    |
-| **Repository**   | [View Repository](https://github.com/JAYASREE24032006/TALENTGRID-Placement-Portal-Application) |
-
-### What I Engineered
-
-* Role-based workflows for **Admin, Recruiter and Candidate**
-* Relational data models using SQLAlchemy
-* Recruitment application and eligibility workflows
-* Recruitment funnel analytics using Chart.js
-* Dashboard experiences customized for each role
-* Search and application-status tracking
-
-`RBAC` `CRUD` `Analytics` `SQL` `Flask` `Product Engineering`
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>◆ TREKORA — Trekking Management Platform</strong></summary>
-
-<br>
-
-A digital trekking management platform replacing spreadsheet-driven operations with structured workflows for **administrators, trek staff and participants**.
-
-### Engineering Snapshot
-
-| Dimension        | Implementation                                                                         |
-| ---------------- | -------------------------------------------------------------------------------------- |
-| **Stack**        | Python · Flask · SQLite · SQLAlchemy · Jinja2 · Bootstrap 5                            |
-| **Architecture** | Multi-role web application                                                             |
-| **Core System**  | Trek + staff + booking management                                                      |
-| **Security**     | Authentication + role-based access                                                     |
-| **Reliability**  | Slot availability and overbooking prevention                                           |
-| **Repository**   | [View Repository](https://github.com/JAYASREE24032006/TREKORA-Trekking-Management-App) |
-
-### What I Engineered
-
-* Role-specific dashboards
-* Trek creation and lifecycle management
-* Staff assignment and approval workflows
-* Participant booking management
-* Real-time slot availability
-* Overbooking prevention
-* Trek lifecycle states such as `Open`, `Started` and `Completed`
-* REST endpoints for structured application data
-
-`Backend` `Database Design` `RBAC` `REST API` `Workflow Automation`
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>◆ INFINITICOOK — Food Recipe Management Platform</strong></summary>
-
-<br>
-
-A full-stack recipe management application developed during my **Web Development Internship at CIRF Technology**.
-
-### Engineering Snapshot
-
-| Dimension       | Implementation                                                                      |
-| --------------- | ----------------------------------------------------------------------------------- |
-| **Stack**       | HTML5 · CSS3 · Bootstrap 5 · JavaScript · PHP · MySQL                               |
-| **Core System** | Recipe discovery and management                                                     |
-| **Database**    | MySQL                                                                               |
-| **Interface**   | Responsive Bootstrap UI                                                             |
-| **Focus**       | Structured recipe data and user interaction                                         |
-| **Repository**  | [View Repository](https://github.com/JAYASREE24032006/INFINITYCOOK-Food-Recipe-App) |
-
-### What I Engineered
-
-* Responsive recipe interface
-* Recipe categorization
-* MySQL-backed recipe storage
-* Recipe submission workflows
-* Saved recipe functionality
-* Frontend interactions using JavaScript
-* Backend integration using PHP
-
-`PHP` `MySQL` `JavaScript` `Bootstrap` `Full Stack`
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>◆ SHIELD — Agentic AI Single Sign-On System</strong></summary>
-
-<br>
-
-An AI-assisted authentication platform exploring centralized authentication across multiple applications.
-
-### Engineering Snapshot
-
-| Dimension          | Implementation                                                                             |
-| ------------------ | ------------------------------------------------------------------------------------------ |
-| **Stack**          | Python · Flask · React · Node.js · JWT · Redis                                             |
-| **Architecture**   | Centralized authentication                                                                 |
-| **Authentication** | JWT-based identity verification                                                            |
-| **State**          | Redis-backed session management                                                            |
-| **Security**       | Centralized logout + anomaly monitoring                                                    |
-| **Repository**     | [View Repository](https://github.com/JAYASREE24032006/SHEILD-Agentic-AI-Driven-SSO-System) |
-
-### What I Engineered
-
-* Centralized authentication architecture
-* JWT-based authentication
-* Redis-backed session management
-* Global logout functionality
-* Anomaly-monitoring workflows
-* AI-driven security decision concepts
-
-`Authentication` `JWT` `Redis` `Agentic AI` `Cybersecurity`
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>◆ INSIGHTAI — AI-Powered Customer Experience Dashboard</strong></summary>
-
-<br>
-
-An analytics platform designed to transform customer feedback into **sentiment, churn-risk and customer-experience intelligence**.
-
-### Architecture
+## 🎓 Academic Journey
 
 ```text
-Customer Feedback
-       │
-       ▼
-┌──────────────────┐
-│ Data Ingestion   │
-└────────┬─────────┘
-         ▼
-┌──────────────────┐
-│ Cleaning & NLP   │
-└────────┬─────────┘
-         ▼
-┌──────────────────┐
-│ Sentiment / Risk │
-└────────┬─────────┘
-         ▼
-┌──────────────────┐
-│ Flask REST APIs  │
-└────────┬─────────┘
-         ▼
-┌──────────────────┐
-│ React Dashboard  │
-└────────┬─────────┘
-         ▼
-┌──────────────────┐
-│ AI Assistant     │
-└──────────────────┘
+$ whoami --education
+
+[2023 — Present]  BS Data Science & Applications, IIT Madras       CGPA: 7.0/10.0
+                  → ML · Computational Thinking · Linear Algebra
+                  → Statistics · Database Systems
+
+[2023 — Present]  BE Computer Science Engineering, Saveetha Engg.  CGPA: 8.6/10.0
+                  → Software Engineering · Web Technologies
+                  → Computer Networks · Cybersecurity
 ```
 
-### Engineering Snapshot
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
 
-| Dimension    | Implementation                                 |
-| ------------ | ---------------------------------------------- |
-| **Frontend** | React · Tailwind CSS · Recharts                |
-| **Backend**  | Python · Flask                                 |
-| **Data**     | SQLite · Pandas                                |
-| **NLP**      | NLTK · TextBlob                                |
-| **AI**       | OpenAI API                                     |
-| **Focus**    | Sentiment + churn-risk + feedback intelligence |
+<br/>
 
-### What I Engineered
+## 🛠️ Tech Stack
 
-* Customer feedback ingestion pipeline
-* Data sanitization and structuring
-* Sentiment analysis
-* Customer churn-risk analytics
-* Interactive Recharts dashboards
-* Flask REST APIs
-* AI chatbot integration
+<div align="center">
 
-`NLP` `Analytics` `React` `Flask` `LLM Integration`
+**Languages & Databases**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+
+**Web, Frameworks & ML**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
+
+**Security & Tools**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Kali Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
+
+</div>
+
+| Domain | Skills |
+|---|---|
+| 🛡️ **Security & Forensics** | Ethical Hacking · Nmap · Metasploit · Burp Suite · Wireshark · Autopsy (Digital Forensics) |
+| 📊 **Analytics & Math** | Probability & Statistics · Linear Algebra · Predictive Analytics · Data Mining |
+| 🗣️ **Soft Skills** | Team Leadership · First-Principles Problem Solving · Analytical Communication |
+
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💼 [TALENTGRID](https://github.com/JAYASREE24032006/TALENTGRID-Placement-Portal-Application)
+**Recruitment Workflow & Analytics Platform**
+
+Multi-tenant recruitment platform with a **Neobrutalist UI** — dedicated dashboards for Admins, Recruiters & Candidates. Relational schemas via SQLAlchemy power live funnel analytics rendered with Chart.js.
+
+`Python` `Flask` `SQLite` `Flask-SQLAlchemy` `Jinja2` `Bootstrap 5` `Chart.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏕️ [TREKORA](https://github.com/JAYASREE24032006/TREKORA-Trekking-Management-App)
+**Adventure Logistics Platform**
+
+Role-based trek management system orchestrating booking histories, participant allocation, and dynamic route inventories through real-time relational databases.
+
+`Python` `Flask` `SQLite` `Flask-SQLAlchemy` `Jinja2` `Bootstrap 5`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍳 [INFINITICOOK](https://github.com/JAYASREE24032006/INFINITYCOOK-Food-Recipe-App)
+**Recipe Management Platform** · *CIRF Internship*
+
+Full-stack recipe platform with modular DB structures handling multi-cuisine filtering, submissions, saved recipes & responsive rendering.
+
+`HTML5` `CSS3` `Bootstrap 5` `JavaScript` `PHP` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [SHIELD](https://github.com/JAYASREE24032006/SHEILD-Agentic-AI-Driven-SSO-System)
+**Agentic AI–Driven SSO System**
+
+Unified single sign-on across apps with real-time anomaly monitoring, forced global logout, JWT verification & Redis session state.
+
+`Python` `Flask` `JWT` `Redis` `React` `Node.js`
+
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
+
+<br/>
+
+## 💼 Industry Experience
+
+<details open>
+<summary><b>🌐 Web Development Intern — CIRF Technology</b> <i>(Jul 1–15, 2024)</i></summary>
+<br/>
+
+- Engineered **INFINITICOOK**: full-stack recipe management app (PHP, MySQL, JavaScript)
+- Designed modular schemas & optimized queries for complex multi-category filtering
+- Delivered fully responsive UI with HTML5, CSS3 & Bootstrap
+
+`HTML5` `CSS3` `Bootstrap` `JavaScript` `PHP` `MySQL`
 
 </details>
-
-<br>
 
 <details>
-<summary><strong>◆ SHORECAST — Agentic AI Coastal Safety Platform</strong></summary>
+<summary><b>🛡️ Cybersecurity & Ethical Hacking Intern — Zybeak Technologies Pvt. Ltd.</b> <i>(Jan 2–31, 2025)</i></summary>
+<br/>
 
-<br>
+- Conducted network/system security audits using Nmap, Metasploit & Burp Suite
+- Performed simulated SQL injection testing in controlled lab environments
+- Practiced incident response via digital forensics using Autopsy on Kali Linux
 
-A geospatial AI platform combining **agentic workflows, location intelligence and structured spatial data** for coastal safety applications.
-
-### Architecture
-
-```text
-                    ┌───────────────────┐
-                    │   Next.js Client  │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │    FastAPI API    │
-                    └─────────┬─────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │ LangGraph Agents  │
-                    └─────────┬─────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             ▼                ▼                ▼
-       PostgreSQL          PostGIS          pgvector
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                         Redis Layer
-```
-
-### Engineering Snapshot
-
-| Dimension          | Implementation                             |
-| ------------------ | ------------------------------------------ |
-| **Frontend**       | Next.js 15 · Tailwind CSS · MapLibre GL JS |
-| **Backend**        | FastAPI · Python 3.12                      |
-| **AI**             | LangGraph · Groq · Llama 3.3               |
-| **Database**       | PostgreSQL 16 · PostGIS · pgvector         |
-| **Infrastructure** | Redis 7                                    |
-| **Core Focus**     | Agentic + geospatial intelligence          |
-
-### What I Engineered
-
-* Next.js-based frontend architecture
-* FastAPI backend services
-* LangGraph agent workflows
-* Geospatial processing with PostGIS
-* Vector search using pgvector
-* Redis-backed application state
-* Interactive mapping using MapLibre GL JS
-
-`Agentic AI` `Geospatial AI` `PostGIS` `Vector Search` `FastAPI`
+`Ethical Hacking` `Kali Linux` `Nmap` `Metasploit` `Burp Suite` `SQL Injection` `Digital Forensics`
 
 </details>
 
----
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
 
-# 💼 Experience
+<br/>
 
-## Web Development Intern — CIRF Technology
+## 🏆 Achievements & Recognition
 
-Developed a full-stack **Food Recipe Management Application** focused on structured recipe data, search, categorization and responsive user interaction.
+| | Achievement | Context |
+|---|---|---|
+| 🏆 | **Winner, 1st Prize — Crown Quest** | Math Club, Saveetha Engineering College (Mar 2026) |
+| ⚛️ | **Winner, 1st Prize — Quantum Computing Tournament** | Advanced algorithm & speed computation |
+| 🎓 | **Foundation Finisher & Top Grade Badges** | IIT Madras, BS Data Science Foundation Level |
+| 🛡️ | **NETRUNNER'S GAUNTLET Qualifier** | Kurukshetra'26 CTF — Anna University (CEG) / IEEE |
+| ⚡ | **IBM Z Datathon 2025 Participant** | Enterprise cloud & big-data challenge |
+| 🚀 | **THIRAN 2026 AI-Agentathon Participant** | Sri Eshwar College — national AI agent hackathon |
+| 🏆 | **Deloitte Certificate of Excellence** | Data Analytics Program |
+| 🥈 | **NPTEL Elite Silver Medalist — IoT** | IIT Kharagpur, 85% consolidated score |
+| 🏛️ | **Viksit Bharat @2047 Recognition** | MyGov / Govt. of India tech infrastructure proposal |
 
-### Scope
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
 
-* Developed backend functionality with PHP and MySQL
-* Designed database structures for recipe information
-* Implemented recipe categorization and filtering
-* Built responsive interfaces using Bootstrap
-* Added JavaScript-based interactions
-* Worked across frontend, backend and database layers
+<br/>
 
-`PHP` `MySQL` `JavaScript` `HTML5` `CSS3` `Bootstrap`
-
----
-
-## Ethical Hacking Intern — Zybeak Solution
-
-Worked with practical cybersecurity and ethical-hacking workflows in controlled environments.
-
-### Scope
-
-* Vulnerability assessment using Nmap
-* Controlled exploitation using Metasploit
-* Web-security testing with Burp Suite
-* SQL injection testing
-* Kali Linux security workflows
-* Digital-forensics exploration using Autopsy
-
-`Ethical Hacking` `Kali Linux` `Nmap` `Metasploit` `Burp Suite` `Autopsy`
-
----
-
-# 🏆 Achievements
+## 📜 Certifications
 
 <div align="center">
 
-| Recognition                                  | Details                                                   |
-| -------------------------------------------- | --------------------------------------------------------- |
-| **Crown Quest — 1st Prize**                  | Math Club competition at Saveetha Engineering College     |
-| **Quantum Computing Tournament — 1st Prize** | Quantum computing and algorithmic problem solving         |
-| **NPTEL Elite Silver**                       | Internet of Things — 85% consolidated score               |
-| **Deloitte Certificate of Excellence**       | Recognition for strong performance in Data Analytics      |
-| **Kurukshetra'26 CTF**                       | Qualified participant in NETRUNNER'S GAUNTLET             |
-| **IBM Z Datathon 2025**                      | Participant in enterprise cloud and big-data challenge    |
-| **THIRAN 2026 AI-Agentathon**                | Participant in national-level AI agent building hackathon |
-| **MIRAI ENZAN**                              | Technical symposium participation                         |
-| **Viksit Bharat @2047**                      | Proposal participant in national technology initiative    |
-| **MY Bharat Budget Quest 2026**              | Participant in national economic analysis challenge       |
+![IITM Foundation](https://img.shields.io/badge/IITM-Foundation_Program-9146FF?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-SQL_Database_Fundamentals-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-PyTorch_Ultimate-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Crash_Course_on_Python-4285F4?style=flat-square&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intro_to_Cloud_101-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
----
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
 
-# 📜 Certifications
+<br/>
 
-### AWS
+## 📊 GitHub Analytics
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JAYASREE24032006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jayasree's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAYASREE24032006&theme=tokyonight&hide_border=true" alt="Jayasree's GitHub Streak" height="165"/>
+</div>
 
-* AWS Educate — Introduction to Cloud 101
-* AWS cloud learning modules
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
 
-### Oracle
+<br/>
 
-<img src="https://img.shields.io/badge/Oracle-SQL%20Fundamentals-4F46E5?style=for-the-badge&logo=oracle&logoColor=white">
-
-* Fundamentals of Database: SQL
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Elite%20Silver%20%7C%2085%25-6D28D9?style=for-the-badge">
-
-* Internet of Things
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-4338CA?style=for-the-badge&logo=cisco&logoColor=white">
-
-* Python Essentials 1
-
-### Google
-
-<img src="https://img.shields.io/badge/Google-Crash%20Course%20on%20Python-7C3AED?style=for-the-badge&logo=google&logoColor=white">
-
-* Crash Course on Python
-
-### IBM / Coursera / PyTorch
-
-<img src="https://img.shields.io/badge/IBM%20%7C%20Coursera-AI%20%26%20PyTorch-4F46E5?style=for-the-badge&logo=coursera&logoColor=white">
-
-* Artificial Intelligence Essentials — IBM
-* PyTorch Ultimate
-* Advanced PyTorch Techniques
-
-### Additional
-
-* Anthropic — Claude Code in Action
-* Infosys Wingspan — Build & Train RNNs
-* Red Hat System Administration II
-* Commonwealth Bank Software Engineering Simulation
-
----
-
-# 💻 Coding Profiles
+## 🤝 Mentors & Collaborators
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
+Grateful to the institutions and teams that shaped this journey:
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HACKERRANK-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white">
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CODECHEF-312E81?style=for-the-badge&logo=codechef&logoColor=white">
-</a>
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/-IIT_Madras-9146FF?style=for-the-badge" alt="IIT Madras"/><br/><sub>Academic Mentor</sub>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/-Saveetha_Engg-6C63FF?style=for-the-badge" alt="Saveetha Engineering College"/><br/><sub>Home Institution</sub>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/-CIRF_Technology-2ea44f?style=for-the-badge" alt="CIRF Technology"/><br/><sub>Internship Host</sub>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/-Zybeak_Tech-D14836?style=for-the-badge" alt="Zybeak Technologies"/><br/><sub>Internship Host</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<div align="right"><a href="#-table-of-contents">↑ back to top</a></div>
 
-# 📈 GitHub Analytics
+<br/>
+
+## 📬 Let's Connect
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JAYASREE24032006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" alt="GitHub statistics">
+**Open to Data Scientist · ML Engineer · Full-Stack Developer opportunities**
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYASREE24032006&layout=compact&langs_count=8&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" alt="Top programming languages">
+<p>
+  <a href="https://www.linkedin.com/in/jayasree240306"><img src="https://img.shields.io/badge/LinkedIn-jayasree240306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JAYASREE24032006"><img src="https://img.shields.io/badge/GitHub-JAYASREE24032006-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:jayasree2403206@gmail.com"><img src="https://img.shields.io/badge/Gmail-jayasree2403206-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://jayasree-portfolio-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAYASREE24032006&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak">
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JAYASREE24032006&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies">
+<sub>© 2026 Jayasree R · Built with 🧠 first-principles thinking and ☕</sub>
 
 </div>
-
----
-
-# 🌌 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAYASREE24032006&bg_color=0D0221&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph">
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JAYASREE24032006/JAYASREE24032006/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation">
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```yaml
-identity:
-  name: "Jayasree R"
-  role: "Computer Science & Data Science Engineer"
-  location: "Chennai, India"
-
-learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - Agentic AI
-  - Generative AI
-  - System Design
-  - Data Engineering
-  - Cloud Computing
-
-building:
-  - AI-powered analytics platforms
-  - Agentic AI applications
-  - Full-stack enterprise systems
-  - Data-driven products
-  - Secure distributed applications
-
-exploring:
-  - LLM-powered applications
-  - Multi-agent architectures
-  - Vector databases
-  - Geospatial AI
-  - AI security
-  - Production ML systems
-
-open_to:
-  - AI/ML internships
-  - Data Science opportunities
-  - Software Engineering roles
-  - Full-stack development
-  - Research collaborations
-  - Open-source projects
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:jayasree2403206@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-jayasree2403206%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/jayasree240306">
-<img src="https://img.shields.io/badge/LinkedIn-Jayasree%20R-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/JAYASREE24032006">
-<img src="https://img.shields.io/badge/GitHub-JAYASREE24032006-312E81?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://jayasree-portfolio-chi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A78BFA?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<br><br>
-
-<strong>Building at the intersection of AI, data and software engineering.</strong>
-
-</div>
-
----
-
-<div align="center">
-
-> **Build with curiosity. Engineer with purpose. Keep learning.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:4C1D95,65:24104F,100:0D0221&height=140&section=footer&animation=fadeIn" width="100%" alt="Purple footer wave">
-
-</div>
-```
